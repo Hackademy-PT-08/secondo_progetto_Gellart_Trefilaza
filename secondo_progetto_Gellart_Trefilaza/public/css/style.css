@@ -1,0 +1,43 @@
+#hero, #hero1, #hero2, #hero3 {
+    height: 600px;
+    background-image: url("https://free4kwallpapers.com/uploads/originals/2017/09/27/minimalist-sunrise-wallpaper.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    position: relative;
+};
+
+#hero1 {
+    height: 600px;
+    background-image: url("https://images.hdqwalls.com/wallpapers/fish-dark-minimal-7u.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    position: relative;
+};
+
+#hero2 {
+    height: 600px;
+    background-image: url("https://wallpapers.com/images/featured/dark-minimalist-4dgrytq4ymoszpcq.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    position: relative;
+};
+
+#hero3 {
+    height: 600px;
+    background-image: url("https://wallpapercave.com/wp/wp9848249.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    position: relative;
+}
